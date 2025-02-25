@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodriguesvinay
-- 👀 I’m interested in Robot manipulation
+- 👀 I’m doing research in Robot manipulation
 
 <!---
 - 🌱 I’m currently learning modellling and control of continuum parallel robot
